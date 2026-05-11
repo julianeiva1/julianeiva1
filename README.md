@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Full-Stack`**
 
-Me chamo Julia Neiva Gomes, tenho 19 anos e sou do Espírito Santo. 
+Me chamo Julia Neiva Gomes, tenho 20 anos e sou do Espírito Santo. 
 Atualmente sou graduanda em Sistemas de Informação pelo IFES e professora de inglês.
 Tenho interesse em desenvolvimento back-end com Python (Django, Flask), Java (Spring Boot) e C# (ASP.NET), além de tecnologias de front-end como HTML, CSS, JavaScript.
 Busco constantemente unir minhas habilidades em ensino e tecnologia e sou adepta do aprendizado contínuo, buscando evoluir por meio de cursos, projetos práticos e experiências que conectem tecnologia, criatividade e educação. 
